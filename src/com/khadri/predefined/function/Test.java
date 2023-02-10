@@ -10,5 +10,6 @@ public class Test {
 
 		boolean result = predicate.test("HELLO");
 		System.out.println("is Empty? " + result);
+		System.out.println("End of the program");
 	}
 }
