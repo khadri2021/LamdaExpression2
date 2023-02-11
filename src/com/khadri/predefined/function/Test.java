@@ -3,7 +3,11 @@ package com.khadri.predefined.function;
 import java.util.function.Predicate;
 
 public class Test {
+
 	public static void main(String[] args) {
+
+		System.out.println("start of the program");
+
 		Predicate<String> predicate = (msg) -> {
 			return msg.isEmpty();
 		};
