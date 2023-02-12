@@ -1,8 +1,8 @@
-package com.khadri.predefined.function;
+package com.khadri.predefined.function.predicate;
 
 import java.util.function.Predicate;
 
-public class Test {
+public class TestPredicate {
 
 	public static void main(String[] args) {
 
